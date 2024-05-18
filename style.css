@@ -1,0 +1,15 @@
+body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .quote {
+      border-left: 5px solid #ddd;
+      padding-left: 10px;
+      margin-bottom: 20px;
+    }
+    .author {
+      font-style: italic;
+      margin-top: 10px;
+    }
